@@ -35,6 +35,16 @@ img {
     height: 420px;
 }
 
+.infografico {
+    width: 40%;
+    height: 550px;
+}
+
+.area {
+    width: 53%;
+    height: auto;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
